@@ -1,0 +1,6 @@
+@HDCSE53Navod_HostAddress = http://localhost:5244
+
+GET {{HDCSE53Navod_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
